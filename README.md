@@ -45,6 +45,6 @@ Desenvolvido durante o Evento **NLW Journey** da [Rocketseat](https://app.rocket
   <img src="https://img.shields.io/badge/intellijidea-1073ff?style=for-the-badge&logo=intellijidea&logoColor=black">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
-  <img src="https://img.shields.io/badge/Imsomnia-6800ff?style=for-the-badge&logo=insomnia">
+  <img src="https://img.shields.io/badge/Insomnia-6800ff?style=for-the-badge&logo=insomnia">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
